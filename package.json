@@ -1,0 +1,23 @@
+{
+  "name": "select-path",
+  "version": "0.0.0",
+  "description": "Select if path will be applied based on the os type.",
+  "main": "select-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/select-path.git"
+  },
+  "keywords": [
+    "select-path",
+    "path"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/select-path/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/select-path#readme"
+}
